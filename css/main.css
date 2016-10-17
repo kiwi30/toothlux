@@ -675,6 +675,7 @@ Testimonials Style
   background-attachment: fixed;
   padding: 60px 0;
   text-align: center;
+  width: 100%;
 }
 #testimonials h2 {
   text-transform: uppercase;
